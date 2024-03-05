@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 "# music" 
 =======
 # i find there're no copyrights
